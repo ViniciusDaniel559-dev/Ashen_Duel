@@ -1,0 +1,14 @@
+C:\Users\vinic\Ashen_Duel\bin\Debug\net10.0\Ashen_Duel.exe
+C:\Users\vinic\Ashen_Duel\bin\Debug\net10.0\Ashen_Duel.deps.json
+C:\Users\vinic\Ashen_Duel\bin\Debug\net10.0\Ashen_Duel.runtimeconfig.json
+C:\Users\vinic\Ashen_Duel\bin\Debug\net10.0\Ashen_Duel.dll
+C:\Users\vinic\Ashen_Duel\bin\Debug\net10.0\Ashen_Duel.pdb
+C:\Users\vinic\Ashen_Duel\obj\Debug\net10.0\Ashen_Duel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Ashen_Duel\obj\Debug\net10.0\Ashen_Duel.AssemblyInfoInputs.cache
+C:\Users\vinic\Ashen_Duel\obj\Debug\net10.0\Ashen_Duel.AssemblyInfo.cs
+C:\Users\vinic\Ashen_Duel\obj\Debug\net10.0\Ashen_Duel.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Ashen_Duel\obj\Debug\net10.0\Ashen_Duel.dll
+C:\Users\vinic\Ashen_Duel\obj\Debug\net10.0\refint\Ashen_Duel.dll
+C:\Users\vinic\Ashen_Duel\obj\Debug\net10.0\Ashen_Duel.pdb
+C:\Users\vinic\Ashen_Duel\obj\Debug\net10.0\Ashen_Duel.genruntimeconfig.cache
+C:\Users\vinic\Ashen_Duel\obj\Debug\net10.0\ref\Ashen_Duel.dll
